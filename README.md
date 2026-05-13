@@ -1,17 +1,19 @@
-# sneaker_store_app
+# UTS Mobile Flutter - Moh Ramdani
 
-A new Flutter project.
+## Deskripsi Aplikasi
+Aplikasi **Sneaker Store** berbasis Flutter untuk penjualan sepatu online.
 
-## Getting Started
+## Fitur
+- Home page dengan banner promosi
+- Kategori produk
+- Search produk
+- Detail produk
+- Add to cart
+- Halaman cart
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Struktur Repository
+```bash
+UTS-Mobile-Flutter-MohRamdani/
+├── project_flutter/
+├── screenshots/
+└── README.md
