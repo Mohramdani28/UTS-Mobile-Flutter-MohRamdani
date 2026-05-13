@@ -4,10 +4,12 @@
 Aplikasi **Sneaker Store** berbasis Flutter untuk penjualan sepatu online.
 
 ## Fitur
-- Home page dengan banner promosi
+- Create Account
+- Login
+- Home page
+- Profile + CRUD 
 - Kategori produk
 - Search produk
-- Detail produk
 - Add to cart
 - Halaman cart
 
